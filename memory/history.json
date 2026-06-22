@@ -1,0 +1,482 @@
+[
+  {
+    "timestamp": "2026-06-09T13:01:56",
+    "user_input": "what time is it",
+    "response": "The current time is 02:00 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:04",
+    "user_input": "what time is it",
+    "response": "The current time is 01:30 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:04",
+    "user_input": "what is the date today",
+    "response": "Today is Tuesday, June 09, 2026."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:04",
+    "user_input": "calculate 25 times 4",
+    "response": "The current time is 01:30 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:05",
+    "user_input": "search python tutorials",
+    "response": "Searching Google for python tutorials."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:05",
+    "user_input": "open Safari",
+    "response": "Opening Safari."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:05",
+    "user_input": "weather in London",
+    "response": "Weather lookup isn't configured. Add your OPENWEATHERMAP_API_KEY to the .env file."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:24",
+    "user_input": "calculate 25 times 4",
+    "response": "The current time is 01:30 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:24",
+    "user_input": "what is 100 divided by 5",
+    "response": "The answer is 20.0."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:24",
+    "user_input": "what time is it",
+    "response": "The current time is 01:30 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:30:24",
+    "user_input": "what is the date today",
+    "response": "Today is Tuesday, June 09, 2026."
+  },
+  {
+    "timestamp": "2026-06-09T13:31:33",
+    "user_input": "what time is it",
+    "response": "The current time is 01:31 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:31:33",
+    "user_input": "what is the date today",
+    "response": "Today is Tuesday, June 09, 2026."
+  },
+  {
+    "timestamp": "2026-06-09T13:31:33",
+    "user_input": "calculate 25 times 4",
+    "response": "The current time is 01:31 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:31:33",
+    "user_input": "what is 100 divided by 5",
+    "response": "The answer is 20.0."
+  },
+  {
+    "timestamp": "2026-06-09T13:31:34",
+    "user_input": "search python tutorials",
+    "response": "Searching Google for python tutorials."
+  },
+  {
+    "timestamp": "2026-06-09T13:31:34",
+    "user_input": "open Safari",
+    "response": "Opening Safari."
+  },
+  {
+    "timestamp": "2026-06-09T13:31:34",
+    "user_input": "weather in London",
+    "response": "Weather lookup isn't configured. Add your OPENWEATHERMAP_API_KEY to the .env file."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:18",
+    "user_input": "what time is it",
+    "response": "The current time is 01:32 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:18",
+    "user_input": "what is the date today",
+    "response": "Today is Tuesday, June 09, 2026."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:18",
+    "user_input": "calculate 25 times 4",
+    "response": "The current time is 01:32 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:18",
+    "user_input": "what is 100 divided by 5",
+    "response": "The answer is 20.0."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:18",
+    "user_input": "what is 7 plus 3",
+    "response": "The answer is 10."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:18",
+    "user_input": "search python tutorials",
+    "response": "Searching Google for python tutorials."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:18",
+    "user_input": "open Safari",
+    "response": "Opening Safari."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:18",
+    "user_input": "weather in London",
+    "response": "Weather lookup isn't configured. Add your OPENWEATHERMAP_API_KEY to the .env file."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "what time is it",
+    "response": "The current time is 01:32 PM."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "what is the date today",
+    "response": "Today is Tuesday, June 09, 2026."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "calculate 25 times 4",
+    "response": "The answer is 100."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "what is 100 divided by 5",
+    "response": "The answer is 20.0."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "what is 7 plus 3",
+    "response": "The answer is 10."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "what is 2 to the power of 8",
+    "response": "The answer is 256."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "search python tutorials",
+    "response": "Searching Google for python tutorials."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "open Safari",
+    "response": "Opening Safari."
+  },
+  {
+    "timestamp": "2026-06-09T13:32:49",
+    "user_input": "weather in London",
+    "response": "Weather lookup isn't configured. Add your OPENWEATHERMAP_API_KEY to the .env file."
+  },
+  {
+    "timestamp": "2026-06-09T17:00:15",
+    "user_input": "I am ready",
+    "response": "I heard you say: \"I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:07",
+    "user_input": "what is time",
+    "response": "The current time is 05:01 PM."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:07",
+    "user_input": "what is time",
+    "response": "The current time is 05:01 PM."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:16",
+    "user_input": "my name is",
+    "response": "I heard you say: \"my name is\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:16",
+    "user_input": "my name is Harsh",
+    "response": "I heard you say: \"my name is Harsh\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:26",
+    "user_input": "hey I am ready",
+    "response": "I heard you say: \"hey I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:26",
+    "user_input": "hey I am ready",
+    "response": "I heard you say: \"hey I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:33",
+    "user_input": "hey I am ready",
+    "response": "I heard you say: \"hey I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:33",
+    "user_input": "hey I am ready",
+    "response": "I heard you say: \"hey I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:01:38",
+    "user_input": "open YouTube",
+    "response": "I couldn't find an application called Youtube."
+  },
+  {
+    "timestamp": "2026-06-09T17:02:02",
+    "user_input": "it is only repeat",
+    "response": "I heard you say: \"it is only repeat\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:02:02",
+    "user_input": "it is only repeat",
+    "response": "I heard you say: \"it is only repeat\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:02:13",
+    "user_input": "Subah ka",
+    "response": "I heard you say: \"Subah ka\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:02:13",
+    "user_input": "Subah ka",
+    "response": "I heard you say: \"Subah ka\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:04:27",
+    "user_input": "what time is it",
+    "response": "The current time is 05:04 PM."
+  },
+  {
+    "timestamp": "2026-06-09T17:04:27",
+    "user_input": "calculate 9 times 9",
+    "response": "The answer is 81."
+  },
+  {
+    "timestamp": "2026-06-09T17:04:45",
+    "user_input": "hey I am ready",
+    "response": "I heard you say: \"hey I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:04:45",
+    "user_input": "hey I am ready",
+    "response": "I heard you say: \"hey I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:04:50",
+    "user_input": "I am ready",
+    "response": "I heard you say: \"I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:04:50",
+    "user_input": "hey I am ready",
+    "response": "I heard you say: \"hey I am ready\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:04:54",
+    "user_input": "search",
+    "response": "What would you like me to search for?"
+  },
+  {
+    "timestamp": "2026-06-09T17:05:32",
+    "user_input": "hi hi hi",
+    "response": "I heard you say: \"hi hi hi\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:05:34",
+    "user_input": "hay hay",
+    "response": "I heard you say: \"hay hay\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:05:37",
+    "user_input": "hay hay",
+    "response": "I heard you say: \"hay hay\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:11",
+    "user_input": "what is your name",
+    "response": "I couldn't understand that calculation. Please rephrase."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:11",
+    "user_input": "what is your name",
+    "response": "I couldn't understand that calculation. Please rephrase."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:16",
+    "user_input": "my name is Harsh",
+    "response": "I heard you say: \"my name is Harsh\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:16",
+    "user_input": "my name is",
+    "response": "I heard you say: \"my name is\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:21",
+    "user_input": "name is Harsh",
+    "response": "I heard you say: \"name is Harsh\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:21",
+    "user_input": "my name is Harish",
+    "response": "I heard you say: \"my name is Harish\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:27",
+    "user_input": "my name is Harsh",
+    "response": "I heard you say: \"my name is Harsh\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:27",
+    "user_input": "my name is Harsh",
+    "response": "I heard you say: \"my name is Harsh\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:31",
+    "user_input": "what is time",
+    "response": "The current time is 05:06 PM."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:31",
+    "user_input": "what is time",
+    "response": "The current time is 05:06 PM."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:35",
+    "user_input": "what is today date",
+    "response": "I couldn't understand that calculation. Please rephrase."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:40",
+    "user_input": "what is today date",
+    "response": "I couldn't understand that calculation. Please rephrase."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:40",
+    "user_input": "what is today date",
+    "response": "I couldn't understand that calculation. Please rephrase."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:46",
+    "user_input": "HI",
+    "response": "I heard you say: \"HI\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:06:58",
+    "user_input": "HI",
+    "response": "I heard you say: \"HI\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:07:03",
+    "user_input": "YOUR NAME",
+    "response": "I heard you say: \"YOUR NAME\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:07:42",
+    "user_input": "this is my friend Jarvis that he made by crew",
+    "response": "I heard you say: \"this is my friend Jarvis that he made by crew\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:07:42",
+    "user_input": "this is my friend Jarvis that he made by crew",
+    "response": "I heard you say: \"this is my friend Jarvis that he made by crew\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:07:46",
+    "user_input": "this Jarvis is",
+    "response": "I heard you say: \"this Jarvis is\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:07:49",
+    "user_input": "100x better than my",
+    "response": "I heard you say: \"100x better than my\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:07:53",
+    "user_input": "better than my Jarvis so high how I make this type of Jarvis",
+    "response": "I heard you say: \"better than my Jarvis so high how I make this type of Jarvis\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:08:23",
+    "user_input": "Sachin Tendulkar",
+    "response": "I heard you say: \"Sachin Tendulkar\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T17:52:43",
+    "user_input": "hi",
+    "response": "I heard you say: \"hi\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T18:24:15",
+    "user_input": "Application startup complete",
+    "response": "I heard you say: \"Application startup complete\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T18:33:59",
+    "user_input": "JARVIS is onlineModuleNotFoundError: No module named 'distutils'",
+    "response": "I heard you say: \"JARVIS is onlineModuleNotFoundError: No module named 'distutils'\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T18:39:57",
+    "user_input": "hello",
+    "response": "I heard you say: \"hello\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:27:40",
+    "user_input": "hello",
+    "response": "I heard you say: \"hello\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:27:54",
+    "user_input": "/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"",
+    "response": "I heard you say: \"/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:28:00",
+    "user_input": "/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"",
+    "response": "I heard you say: \"/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:28:02",
+    "user_input": "/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"",
+    "response": "I heard you say: \"/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:28:06",
+    "user_input": "/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"",
+    "response": "I heard you say: \"/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:28:10",
+    "user_input": "n",
+    "response": "I heard you say: \"n\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:28:12",
+    "user_input": "cd \"/Users/harshkumar/Desktop/AI ASSISTANT\"",
+    "response": "I heard you say: \"cd \"/Users/harshkumar/Desktop/AI ASSISTANT\"\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:28:13",
+    "user_input": "python3 jarvis/main.py",
+    "response": "I heard you say: \"python3 jarvis/main.py\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:29:27",
+    "user_input": "/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"",
+    "response": "I heard you say: \"/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-09T20:40:27",
+    "user_input": "/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"",
+    "response": "I heard you say: \"/usr/local/bin/python3 \"/Users/harshkumar/Desktop/AI ASSISTANT /main.py\"\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  },
+  {
+    "timestamp": "2026-06-11T14:29:35",
+    "user_input": "hello",
+    "response": "I heard you say: \"hello\". I don't have a specific handler for that yet. Try asking for the time, date, a calculation, or a web search."
+  }
+]
